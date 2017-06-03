@@ -1,7 +1,7 @@
 # Install either via
 
-1. `git clone git@github.com:gruberb/angular-boilerplate.git`
-2. `cd angular-boilerplate`
+1. `git clone https://github.com/AKNiazi/exercise.git`
+2. `cd exercise`
 3. `npm -g install grunt-cli karma`
 4. `gem install sass`
 4. `npm install`
